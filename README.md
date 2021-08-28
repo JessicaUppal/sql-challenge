@@ -16,7 +16,7 @@ In this assignment, you will design the tables to hold data in the CSVs, import 
 
 Inspect the CSVs and sketch out an ERD of the tables. Feel free to use a tool like [http://www.quickdatabasediagrams.com](http://www.quickdatabasediagrams.com).
 
-![EmployeeSQL](ERD_Diagram.png)
+https://github.com/JessicaUppal/sql-challenge/blob/main/EmployeeSQL/ERD_Diagram.png
 
 
 #### Data Engineering
@@ -73,7 +73,7 @@ As you examine the data, you are overcome with a creeping suspicion that the dat
 Evidence in hand, you march into your boss's office and present the visualization. With a sly grin, your boss thanks you for your work. On your way out of the office, you hear the words, "Search your ID number." You look down at your badge to see that your employee ID number is 499942.
 
 
-© 2021 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
+Â© 2021 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
 
 
 

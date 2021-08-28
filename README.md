@@ -16,8 +16,6 @@ In this assignment, you will design the tables to hold data in the CSVs, import 
 
 Inspect the CSVs and sketch out an ERD of the tables. Feel free to use a tool like [http://www.quickdatabasediagrams.com](http://www.quickdatabasediagrams.com).
 
-https://github.com/JessicaUppal/sql-challenge/blob/main/EmployeeSQL/ERD_Diagram.png
-
 
 #### Data Engineering
 
